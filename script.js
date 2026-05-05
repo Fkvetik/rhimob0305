@@ -479,8 +479,7 @@
       `Observações: ${data.observacoes || 'Não informado'}`,
       '',
       'Tenho interesse em receber propostas de imobiliárias/incorporadoras parceiras, com contato discreto e confidencial.'
-    ].join('
-');
+    ].join('\n');
   }
 
   function setupTalentModal() {
