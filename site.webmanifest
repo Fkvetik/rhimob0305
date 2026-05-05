@@ -1,0 +1,17 @@
+{
+  "name": "RH IMOB",
+  "short_name": "RH IMOB",
+  "description": "Recrutamento imobiliario, corretores e talentos comerciais.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2b124d",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
